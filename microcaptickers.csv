@@ -1,0 +1,287 @@
+ticker,sector,notes,typical_mcap_range
+KINS,Insurance,"Kingstone Insurance, consistent reporter",$200-250M
+FSTR,Industrials,"L.B. Foster Company, rail/construction",$150-200M
+ARTW,Consumer,"Art's Way Manufacturing, ag equipment",$10-20M
+CAMP,Consumer,"CalAmp Corp, telematics/software",$50-100M
+CVGI,Industrials,"Commercial Vehicle Group, truck parts",$100-150M
+PLPC,Consumer,"Preformed Line Products, telecom/energy",$300-400M
+MTRX,Technology,"Matrix Service Company, industrial services",$100-150M
+ECOR,Healthcare,"electroCore, medical devices",$40-60M
+MPX,Industrials,"Marine Products, boat manufacturing",$300-350M
+UTL,Utilities,"Unitil Corporation, gas/electric utility",$800M-$1B
+ATLO,Banking,"Ames National Corporation, bank holding",$150-200M
+CASS,Industrials,"Cass Information Systems, logistics",$500-600M
+CENT,Banking,"Central Federal Corporation, banking",$10-20M
+CVCY,Banking,"Central Valley Community Bancorp",$150-200M
+EVER,Financials,"EverQuote, insurance marketplace",$200-300M
+FFWM,Financials,"First Foundation Inc., financial services",$400-500M
+FMBH,Banking,"First Mid Bancshares, regional bank",$500-600M
+FUNC,Banking,"First United Corporation, bank holding",$100-150M
+GABC,Banking,"German American Bancorp, regional bank",$800M-$1B
+HBCP,Banking,"Home Bancorp Inc., Louisiana bank",$300-400M
+HFWA,Banking,"Heritage Financial Corporation",$600-700M
+IROQ,Technology,"IF Bancorp Inc., bank holding + tech",$50-70M
+NBN,Banking,"Northeast Bank, commercial lender",$400-500M
+ORRF,Banking,"Orrstown Financial Services",$300-400M
+PGC,Banking,"Peapack-Gladstone Financial Corp",$400-500M
+RNST,Banking,"Renasant Corporation, regional bank",$1.5-2B
+SASR,Banking,"Sandy Spring Bancorp Inc.",$1-1.2B
+SFST,Banking,"Southern First Bancshares",$200-300M
+SMMF,Banking,"Summit Financial Group",$300-400M
+TBBK,Banking,"The Bancorp Inc., specialty finance",$1.5-2B
+TMP,Financials,"Tompkins Financial Corporation",$1-1.2B
+UBFO,Banking,"United Security Bancshares",$100-150M
+UBSI,Banking,"United Bankshares Inc.",$4-5B
+UCBI,Banking,"United Community Banks Inc.",$3-4B
+WSBF,Banking,"Waterstone Financial Inc.",$200-300M
+WTBA,Banking,"West Bancorporation Inc.",$300-400M
+ATNI,Telecom,"ATN International, telecom services",$400-500M
+CETX,Technology,"Cemtrex Inc., diversified tech",$10-20M
+CRWS,Consumer,"Crown Crafts Inc., home furnishings",$50-70M
+DXLG,Retail,"Destination XL Group, big & tall apparel",$100-150M
+ASB,Banking,"Associated Banc-Corp",$2-3B
+CATY,Banking,"Cathay General Bancorp",$2.5-3B
+FFIC,Banking,"Flushing Financial Corporation",$300-400M
+FULT,Banking,"Fulton Financial Corporation",$2-3B
+HOPE,Banking,"Hope Bancorp Inc.",$1.2-1.5B
+INDB,Banking,"Independent Bank Corp",$2-2.5B
+NWBI,Banking,"Northwest Bancshares",$1.4-1.6B
+PFS,Banking,"Provident Financial Services",$1-1.2B
+TRST,Banking,"TrustCo Bank Corp NY",$500-600M
+WABC,Banking,"Westamerica Bancorporation",$1.2-1.4B
+GTS,Insurance,"Triple-S Management Corporation",$800M-$1B
+KMPR,Insurance,"Kemper Corporation",$3-4B
+PRA,Insurance,"ProAssurance Corporation",$600-700M
+AEIS,Technology,"Advanced Energy Industries",$3-4B
+ATNI,Telecom,"ATN International",$400-500M
+AVNW,Technology,"Aviat Networks",$400-500M
+CSPI,Technology,"CSP Inc.",$40-60M
+CVLT,Technology,"Commvault Systems",$3-4B
+DAKT,Technology,"Daktronics",$300-400M
+DGII,Technology,"Digi International",$700-800M
+GSIT,Technology,"GSI Technology",$50-70M
+ITI,Technology,"Iteris",$150-200M
+MCFT,Technology,"MasterCraft Boat Holdings",$300-400M
+MITK,Technology,"Mitek Systems",$500-600M
+NATR,Technology,"Nature's Sunshine Products",$200-250M
+PLAB,Technology,"Photronics",$1.5-2B
+PRCP,Technology,"Perceptron",$80-100M
+SGH,Technology,"SMART Global Holdings",$800M-$1B
+SMTC,Technology,"Semtech Corporation",$2-3B
+SPNS,Technology,"Sapiens International",$1.2-1.5B
+TACT,Technology,"TransAct Technologies",$80-100M
+TRS,Technology,"TriMas Corporation",$1-1.2B
+VPG,Technology,"Vishay Precision Group",$400-500M
+WISA,Technology,"Summit Wireless Technologies",$20-30M
+ADUS,Healthcare,"Addus HomeCare",$1.5-2B
+AERI,Healthcare,"Aerie Pharmaceuticals",$600-700M
+ANIK,Healthcare,"Anika Therapeutics",$300-400M
+ATRC,Healthcare,"AtriCure",$2-3B
+AVNS,Healthcare,"Avanos Medical",$1-1.2B
+BLFS,Healthcare,"BioLife Solutions",$800M-$1B
+CUTR,Healthcare,"Cutera",$300-400M
+DYNT,Healthcare,"Dynatronics",$10-15M
+EARS,Healthcare,"Auris Medical Holding",$20-30M
+EMBC,Healthcare,"Embecta Corp",$1.5-2B
+FLGT,Healthcare,"Fulgent Genetics",$600-700M
+GKOS,Healthcare,"Glaukos Corporation",$4-5B
+HCSG,Healthcare,"Healthcare Services Group",$1-1.2B
+HRMY,Healthcare,"Harmony Biosciences",$1.5-2B
+ICUI,Healthcare,"ICU Medical",$3-4B
+INVA,Healthcare,"Innoviva",$1-1.2B
+LFST,Healthcare,"LifeStance Health Group",$2-3B
+MASS,Healthcare,"908 Devices",$200-250M
+MD,Healthcare,"Pediatrix Medical Group",$800M-$1B
+MDXG,Healthcare,"MiMedx Group",$800M-$1B
+NEOG,Healthcare,"Neogen Corporation",$3-4B
+NVRO,Healthcare,"Nevro Corp",$300-400M
+OFIX,Healthcare,"Orthofix Medical",$500-600M
+OMCL,Healthcare,"Omnicell",$1.5-2B
+OSUR,Healthcare,"OraSure Technologies",$400-500M
+PETS,Healthcare,"PetMed Express",$200-250M
+PGEN,Healthcare,"Precigen",$300-400M
+RGNX,Healthcare,"REGENXBIO",$500-600M
+SDGR,Healthcare,"Schrödinger",$1.5-2B
+SILK,Healthcare,"Silk Road Medical",$600-700M
+SLP,Healthcare,"Simulations Plus",$800M-$1B
+SRDX,Healthcare,"Surmodics",$400-500M
+STAA,Healthcare,"STAAR Surgical",$2-3B
+SURG,Healthcare,"SurgePays",$80-100M
+TCMD,Healthcare,"Tactile Systems Technology",$300-400M
+TNYA,Healthcare,"Tenaya Therapeutics",$200-250M
+TXG,Healthcare,"10x Genomics",$3-4B
+VIR,Healthcare,"Vir Biotechnology",$2-3B
+ACU,Industrials,"Acme United Corporation",$100-150M
+AIRT,Industrials,"Air T",$50-70M
+AMSC,Industrials,"American Superconductor",$400-500M
+APOG,Industrials,"Apogee Enterprises",$1.2-1.5B
+ASTE,Industrials,"Astec Industries",$800M-$1B
+AWI,Industrials,"Armstrong World Industries",$4-5B
+B,Industrials,"Barnes Group",$1.5-2B
+BBSI,Industrials,"Barrett Business Services",$600-700M
+BELFB,Industrials,"Bel Fuse",$600-700M
+CECE,Industrials,"CECO Environmental",$500-600M
+CLFD,Industrials,"Clearfield",$300-400M
+CRAI,Industrials,"CRA International",$800M-$1B
+CSWI,Industrials,"CSW Industrials",$3-4B
+CTOS,Industrials,"Custom Truck One Source",$1-1.2B
+DCO,Industrials,"Ducommun",$600-700M
+DNOW,Industrials,"NOW Inc.",$1-1.2B
+EML,Industrials,"Eastern Company",$150-200M
+ENS,Industrials,"EnerSys",$4-5B
+ESE,Industrials,"ESCO Technologies",$2-3B
+FIX,Industrials,"Comfort Systems USA",$8-9B
+FWRD,Industrials,"Forward Air Corporation",$1.5-2B
+GVA,Industrials,"Granite Construction",$2-3B
+HAYN,Industrials,"Haynes International",$600-700M
+HEES,Industrials,"H&E Equipment Services",$1.5-2B
+HI,Industrials,"Hillenbrand",$3-4B
+HNI,Industrials,"HNI Corporation",$2-3B
+HUBG,Industrials,"Hub Group",$2-3B
+IESC,Industrials,"IES Holdings",$2-3B
+JBT,Industrials,"John Bean Technologies",$3-4B
+KFRC,Industrials,"Kforce",$1.2-1.5B
+KWR,Industrials,"Quaker Houghton",$3-4B
+LMB,Industrials,"Limbach Holdings",$400-500M
+MCRI,Industrials,"Monarch Casino & Resort",$1.2-1.5B
+MLI,Industrials,"Mueller Industries",$5-6B
+MOG.A,Industrials,"Moog Inc.",$3-4B
+MRC,Industrials,"MRC Global",$1-1.2B
+NMIH,Financials,"NMI Holdings",$2-3B
+NNBR,Industrials,"NN Inc.",$150-200M
+NPO,Industrials,"Enpro Industries",$3-4B
+NSSC,Industrials,"Napco Security Technologies",$1.5-2B
+NVT,Industrials,"nVent Electric",$5-6B
+ODC,Industrials,"Oil-Dri Corporation of America",$400-500M
+PBI,Industrials,"Pitney Bowes",$800M-$1B
+POWL,Industrials,"Powell Industries",$1.5-2B
+PRG,Industrials,"PROG Holdings",$1.5-2B
+ROCK,Industrials,"Gibraltar Industries",$2-3B
+ROG,Industrials,"Rogers Corporation",$2-3B
+RUSHA,Industrials,"Rush Enterprises",$3-4B
+RUSHB,Industrials,"Rush Enterprises",$3-4B
+SAM,Consumer,"Boston Beer Company",$3-4B
+SBSI,Banking,"Southside Bancshares",$800M-$1B
+SCSC,Industrials,"ScanSource",$800M-$1B
+SFL,Industrials,"SFL Corporation",$1.5-2B
+SXI,Industrials,"Standex International",$1.5-2B
+TDW,Industrials,"Tidewater",$5-6B
+TGI,Industrials,"Triumph Group",$1-1.2B
+TNC,Industrials,"Tennant Company",$2-3B
+TNET,Industrials,"TriNet Group",$5-6B
+TWI,Industrials,"Titan International",$700-800M
+UFCS,Utilities,"United Fire Group",$500-600M
+VICR,Industrials,"Vicor Corporation",$1.5-2B
+WNC,Industrials,"Wabash National",$1-1.2B
+WSO,Industrials,"Watsco",$15-16B
+WTTR,Energy,"Select Energy Services",$800M-$1B
+ZEUS,Industrials,"Olympic Steel",$600-700M
+ABG,Consumer,"Asbury Automotive Group",$4-5B
+AMWD,Consumer,"American Woodmark",$1-1.2B
+APEI,Consumer,"American Public Education",$300-400M
+ARHS,Consumer,"Arhaus",$2-3B
+BKE,Retail,"The Buckle",$1.8-2B
+BOOT,Retail,"Boot Barn Holdings",$3-4B
+BRID,Consumer,"Bridgford Foods",$100-150M
+CAL,Consumer,"Caleres",$1.2-1.5B
+CARS,Consumer,"Cars.com",$1.2-1.5B
+CENTA,Consumer,"Central Garden & Pet",$2-3B
+CHUY,Consumer,"Chuy's Holdings",$500-600M
+COLM,Consumer,"Columbia Sportswear",$4-5B
+CULP,Consumer,"Culp",$50-70M
+DIN,Consumer,"Dine Brands Global",$700-800M
+EAT,Consumer,"Brinker International",$2-3B
+ETD,Consumer,"Ethan Allen Interiors",$700-800M
+FIZZ,Consumer,"National Beverage",$4-5B
+FL,Retail,"Foot Locker",$2-3B
+FNA,Consumer,"Paragon 28",$600-700M
+GCO,Retail,"Genesco",$300-400M
+GES,Retail,"Guess?",$1-1.2B
+GIII,Consumer,"G-III Apparel Group",$1-1.2B
+HBI,Consumer,"Hanesbrands",$1.5-2B
+HIBB,Retail,"Hibbett",$800M-$1B
+HVT,Consumer,"Haverty Furniture",$500-600M
+JACK,Consumer,"Jack in the Box",$1.2-1.5B
+JOUT,Consumer,"Johnson Outdoors",$400-500M
+KTB,Consumer,"Kontoor Brands",$3-4B
+LAKE,Consumer,"Lakeland Industries",$200-250M
+LANC,Consumer,"Lancaster Colony",$5-6B
+LIND,Consumer,"Lindblad Expeditions",$500-600M
+LZB,Consumer,"La-Z-Boy",$1.5-2B
+MOV,Consumer,"Movado Group",$500-600M
+MYE,Consumer,"Myers Industries",$700-800M
+NATH,Consumer,"Nathan's Famous",$300-400M
+NGVC,Consumer,"Natural Grocers by Vitamin Cottage",$300-400M
+NUS,Consumer,"Nu Skin Enterprises",$1-1.2B
+PATK,Consumer,"Patrick Industries",$2-3B
+PZZA,Consumer,"Papa John's International",$2-3B
+RGR,Consumer,"Sturm, Ruger & Company",$800M-$1B
+RICK,Consumer,"RCI Hospitality Holdings",$400-500M
+RMNI,Consumer,"Rimini Street",$300-400M
+SAH,Consumer,"Sonic Automotive",$2-3B
+SCVL,Retail,"Shoe Carnival",$700-800M
+SMP,Consumer,"Standard Motor Products",$700-800M
+SPB,Consumer,"Spectrum Brands Holdings",$2-3B
+STEP,Consumer,"StepStone Group",$3-4B
+STRA,Consumer,"Strategic Education",$2-3B
+THRY,Consumer,"Thryv Holdings",$600-700M
+TILE,Consumer,"Interface",$800M-$1B
+TPH,Consumer,"Tri Pointe Homes",$3-4B
+TREE,Consumer,"LendingTree",$500-600M
+TRUP,Consumer,"Trupanion",$1.5-2B
+UEIC,Consumer,"Universal Electronics",$150-200M
+USNA,Consumer,"USANA Health Sciences",$800M-$1B
+VSTO,Consumer,"Vista Outdoor",$2-3B
+WGO,Consumer,"Winnebago Industries",$2-3B
+WING,Consumer,"Wingstop",$9-10B
+WOR,Consumer,"Worthington Industries",$3-4B
+YELP,Consumer,"Yelp",$2-3B
+ZUMZ,Retail,"Zumiez",$400-500M
+AMRC,Utilities,"Ameresco",$2-3B
+CDZI,Healthcare,"Cadiz Inc.",$200-250M
+CLNE,Energy,"Clean Energy Fuels",$600-700M
+CPK,Utilities,"Chesapeake Utilities",$2-3B
+CWT,Utilities,"California Water Service Group",$2-3B
+EE,Utilities,"Excelerate Energy",$400-500M
+ETRN,Energy,"Equitrans Midstream",$4-5B
+NFG,Utilities,"National Fuel Gas",$4-5B
+NJR,Utilities,"New Jersey Resources",$4-5B
+NWN,Utilities,"Northwest Natural Holding",$1.2-1.5B
+ORA,Utilities,"Ormat Technologies",$4-5B
+PBT,Energy,"Permian Basin Royalty Trust",$500-600M
+PDS,Energy,"Precision Drilling",$800M-$1B
+PNM,Utilities,"PNM Resources",$3-4B
+POR,Utilities,"Portland General Electric",$4-5B
+RGCO,Utilities,"RGC Resources",$200-250M
+SGU,Utilities,"Star Group",$400-500M
+SJI,Utilities,"South Jersey Industries",$3-4B
+SR,Utilities,"Spire",$3-4B
+SWX,Utilities,"Southwest Gas Holdings",$4-5B
+UNFI,Consumer,"United Natural Foods",$600-700M
+ADC,RealEstate,"Agree Realty",$6-7B
+AHT,RealEstate,"Ashford Hospitality Trust",$200-250M
+BRG,RealEstate,"Bluerock Residential Growth REIT",$300-400M
+CMCT,RealEstate,"CIM Commercial Trust",$300-400M
+DEA,RealEstate,"Easterly Government Properties",$1.2-1.5B
+EQC,RealEstate,"Equity Commonwealth",$2-3B
+FSP,RealEstate,"Franklin Street Properties",$200-250M
+GNL,RealEstate,"Global Net Lease",$1.5-2B
+GOOD,RealEstate,"Gladstone Commercial",$500-600M
+GTY,RealEstate,"Getty Realty",$1.5-2B
+HMG,RealEstate,"HMG/Courtland Properties",$20-30M
+IIPR,RealEstate,"Innovative Industrial Properties",$2-3B
+KREF,RealEstate,"KKR Real Estate Finance Trust",$700-800M
+LADR,RealEstate,"Ladder Capital",$1.2-1.5B
+MFA,RealEstate,"MFA Financial",$1-1.2B
+NHI,RealEstate,"National Health Investors",$2-3B
+NSA,RealEstate,"National Storage Affiliates Trust",$5-6B
+NTST,RealEstate,"NetSTREIT",$600-700M
+OLP,RealEstate,"One Liberty Properties",$500-600M
+OUT,RealEstate,"OUTFRONT Media",$2-3B
+RHP,RealEstate,"Ryman Hospitality Properties",$4-5B
+SBRA,RealEstate,"Sabra Health Care REIT",$1.2-1.5B
+SRG,RealEstate,"Seritage Growth Properties",$400-500M
+STAG,RealEstate,"STAG Industrial",$6-7B
+UHT,RealEstate,"Universal Health Realty Income Trust",$600-700M
+UMH,RealEstate,"UMH Properties",$1-1.2B
+WSR,RealEstate,"Whitestone REIT",$400-500M
